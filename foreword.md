@@ -1,4 +1,5 @@
-Foreword
+# Foreword
+
 I've been building software long enough to remember when AI meant rule-based systems and decision trees; long before large language models changed everything. I watched the shift happen in real time. I saw the tools get smarter, the capabilities explode, and the industry scramble to keep up. And somewhere in the middle of all that, I noticed two things happening simultaneously that concerned me enough to write this handbook.
 
 The first: junior engineers being pushed to use AI tools they don't fully understand, shipping code they can't explain, building on foundations they've never laid. Watching that happen is like handing someone an angle grinder and asking them to sculpt. Switching from a chisel to a power tool doesn't make you a sculptor. The craft doesn't live in the tool, it lives in the hands holding it, in the eye judging the work, in the mind that decided what to make in the first place. A more powerful tool in the wrong hands doesn't produce better work. **It produces faster mistakes**.
